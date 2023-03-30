@@ -8,6 +8,6 @@
 提取码：wnei
 
 
-![image](https://github.com/FengziXiao/JxyDatePicker/blob/master/1340843-a76f1e1788c0684f.gif)
+![image](https://github.com/tiantiansaveworld/PartImages/blob/main/part_one.gif)
 
-![image](https://github.com/FengziXiao/JxyDatePicker/blob/master/1340843-a76f1e1788c0684f.gif)
+![image](https://github.com/tiantiansaveworld/PartImages/blob/main/part_two.gif)
